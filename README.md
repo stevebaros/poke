@@ -1,2 +1,0 @@
-# simple-js-app
- 
